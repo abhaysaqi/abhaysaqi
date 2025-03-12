@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/>
   </a>
 </p>
 
